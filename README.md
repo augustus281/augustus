@@ -1,3 +1,9 @@
-# 👋 Hi, I’m Software Engineer.
+# 👋 Hi, I'm Augustus
 
-🚀 Driven by curiosity, I enjoy digging deep into how things work and how to make them better.
+💻 Software Engineer
+
+🚀 Curious about how systems work under the hood.
+
+I enjoy building scalable systems, solving hard problems, and learning something new every day.
+
+> "Stay curious. Build things."
