@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Augustus
+# 👋 Hi, I'm 0x48core
 
 💻 Software Engineer
 
